@@ -27,6 +27,8 @@ The fields should be laid out in a user friendly fashion and be appropriate type
 
 **_Extra Credit:_**	Do additional relevant pages to your site that contain unique elements.
 
+Like out first assignment you will run node server317.js to start the webserver which will again be at localhost:3000.
+
 Submission:  All the files should be organized and submitted to github from the assigned repository.  A PDF writeup (use template) that includes a description of what you did, the logic and design of what you did, problems encountered and how you overcame them and screen shots of your pages (use a full page for each screen shot). 
 The PDF must be included in your repository AND also submitted to Canvas.
 
